@@ -1,7 +1,8 @@
 # LAB-07-Passport-registration
 # NAME : HARIPRASATH S
 # REGISTER NUMBER : 212222240034
-# DATE : ### AIM-
+# DATE :
+### AIM-
 To study the problem statement, SRS document and draw all the UML diagrams of a
 Passport Registration System.
 
