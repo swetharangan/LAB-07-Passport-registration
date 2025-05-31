@@ -1,7 +1,7 @@
 # LAB-07-Passport-registration
 # NAME : SWETHA R
 # REGISTER NUMBER : 212223040221
-# DATE :
+
 ### AIM-
 To study the problem statement, SRS document and draw all the UML diagrams of a
 Passport Registration System.
